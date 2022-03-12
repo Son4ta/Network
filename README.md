@@ -2,7 +2,6 @@
 神经网络与深度学习 学习过程
 ====
 武汉工程大学计算机学院 智能科学与技术
-import mnist_loader
 ```python
 import mnist_loader
 
